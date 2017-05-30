@@ -1,0 +1,22 @@
+[
+  {
+    "image" : "../img/news1img.jpg",
+    "title" : "Square Enix pasa a ser la única compañía a cargo del desarrollo de Final Fantasy VII Remake",
+    "desc" : "La compañía quiere garantizar la mayor calidad posible en el juego y de paso tener su control absoluto.",
+    "date" : "07/07/2017"
+  },
+
+  {
+    "image": "../img/news2img.png",
+    "title": "Si RiME es crackeado, Tequila Works retirará el software de protección de todas las copias del juego",
+    "desc": "¿Una enorme confianza en la codificación de Denuvo o una postura transgresora a la hora de abordar este tipo de situaciones?",
+    "date": "07/07/2017"
+  },
+
+  {
+    "image": "../news3img.jpg",
+    "title": "Nongünz, o cómo un universo tan críptico puede acabar desesperando al más pintado",
+    "desc": "Analizamos la experiencia que supone Nongünz, el juego de acción y plataformas nihilista de los españoles Brainwash Gang, publicado hace pocos días en Steam para Linux, Mac y Windows.",
+    "date": "07/07/2017"
+  }
+]

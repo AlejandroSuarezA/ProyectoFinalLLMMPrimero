@@ -1,0 +1,22 @@
+[
+  {
+    "image" : "../img/news4img.png",
+    "title" : "Anunciado Golf Story para Nintendo Switch, el juego ideal para los amantes de este deporte y los RPG",
+    "desc" : "El título nos pondrá en la piel de un jugador de golf que ha abandonado todo con el fin de cumplir su sueño, que es el de convertirse en el golfista número uno.",
+    "date" : "07/07/2017"
+  },
+
+  {
+    "image" : "../img/news5img.jpg",
+    "title" : "¿Está desarrollando Blizzard un nuevo Warcraft para dispositivos móviles?",
+    "desc" : "¿Qué se estará trayendo Blizzard entre mano?",
+    "date" : "07/07/2017"
+  },
+
+  {
+    "image" : "../img/news6img.jpg",
+    "title" : "Injustice 2: Red Hood llegará en junio y ya puedes ver su tráiler",
+    "desc" : "Capucha Roja entra en escena y llega dispuesto a redibujar la línea que separa a los justicieros de los malhechores en el universo DC.",
+    "date" : "07/07/2017"
+  }
+]
