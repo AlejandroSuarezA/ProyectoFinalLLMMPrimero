@@ -25,10 +25,11 @@
     function loadNews(){
         $.getJSON("../news/jsonNews1.json",function(json){
             $.each(json, function(index){
-                $(".container").append("<div class='row'> <div class='col-md-4'><img class='noticeImg img-responsive' src="
-                    + json[index].image+ "></div> <div class='col-md-8'><h3>"
-                    + json[index].title+ "</h3><p><span class='glyphicon glyphicon-time'></span></p><p>"
-                    + json[index].desc + "</p></div><hr>");
+                $(".container").append("<div class='row'> <div class='col-md-4'><img class='img-responsive' src="
+                    + json[index].image + "></div> <div class='col-md-8'><h3>"
+                    + json[index].title + "</h3><p><span class='glyphicon glyphicon-time'> "
+                    + json[index].date  + "</span></p><p>"
+                    + json[index].desc  + "</p></div></div><hr>");
             });
         });
     }
@@ -36,10 +37,11 @@
     function loadNews2(){
         $.getJSON("../news/jsonNews2.json",function(json){
             $.each(json, function(index){
-                $(".container").append("<div class='row'> <div class='col-md-4'><img class='noticeImg img-responsive' src="
-                    + json[index].image+ "></div> <div class='col-md-8'><h3>"
-                    + json[index].title+ "</h3><p><span class='glyphicon glyphicon-time'></span></p><p>"
-                    + json[index].desc + "</p></div><hr>");
+                $(".container").append("<div class='row'> <div class='col-md-4'><img class='img-responsive' src="
+                    + json[index].image + "></div> <div class='col-md-8'><h3>"
+                    + json[index].title + "</h3><p><span class='glyphicon glyphicon-time'> "
+                    + json[index].date  + "</span></p><p>"
+                    + json[index].desc  + "</p></div></div><hr>");
             });
         });
     }
