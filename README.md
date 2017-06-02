@@ -8,6 +8,6 @@ El diseño esta basado principalmente en la web de videojuegos [vidaExtra](https
 Recursos empleados:
     
     1. Bootstrap
-    2. Jquery
+    2. Libreria Jquery
     3. IDE IntelliJ
     4. W3 Schools
