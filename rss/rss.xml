@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Vida Menos</title>
+        <link>https://www.w3schools.com</link>
+        <description>Web para el proyecto final de LLMM</description>
+        <item>
+            <title>odos los colores y poses de Victoria de ARMS aquí y ahora</title>
+            <link></link>
+            <description>A dos semanas del lanzamiento del juego ya puedes echarle el ojo a las combinaciones de color y victoria de cada luchador.</description>
+        </item>
+        <item>
+            <title>THQ Nordic confirma la fecha de lanzamiento de Battle Chasers: Nightwar para el 3 de octubre</title>
+            <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+            <description>El diseño y la historia de este JRPG se basará en los cómics del mismo nombre que fueron creados por Joe Madureira.</description>
+        </item>
+    </channel>
+
+</rss>

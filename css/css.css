@@ -1,4 +1,7 @@
 .jumbotron {
-    padding:25px; !important
-
+    padding:25px;
+    color: white;
+    text-align: center;
+    background-color: #23527c;
 }
+
