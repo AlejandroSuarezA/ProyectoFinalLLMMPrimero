@@ -1,6 +1,6 @@
-#Proyecto final LLMM
+# Proyecto final LLMM
 
-##Blog de videojuegos
+## Blog de videojuegos
 
 El diseño esta basado principalmente en la web de videojuegos [vidaExtra](https://www.vidaextra.com/)
 
